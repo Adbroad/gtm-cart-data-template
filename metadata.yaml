@@ -1,0 +1,5 @@
+homepage: "https://github.com/Adbroad/gtm-cart-data-template"
+documentation: "https://github.com/Adbroad/gtm-cart-data-template/blob/main/README.md"
+versions:
+  - sha: 6d6b59c1c3aeb0dffa560edd425c23f2be313be5
+    changeNotes: Initial release.
