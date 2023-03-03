@@ -53,7 +53,7 @@ For instance, if your datalayer looks like this :
 ```
 
 You will need to specify the following arguments :  
-![image](https://imgur.com/a/hGzbYF5)
+![image](cdcd.png)
 
 Make sure this exactly matches what is found in your datalayer. Case matters.
 
