@@ -6,9 +6,9 @@ This is a Google Tag Manager variable template that returns a ready-to-use "elem
 Google Ads cart data reporting gives you insights about which products were sold through Shopping ads by linking to your Google Merchant Center feeds. It can also be combined with "cost_of_good_sold" field to get gross margin reports.  
 
 ### For more information
-Google Ads cart data explanation: https://support.google.com/google-ads/answer/9028254?hl=en
-Google Ads cart data official implementation doc: https://support.google.com/google-ads/answer/9028614?hl=en
-About gross margin reports: https://support.google.com/merchants/answer/9017895
+Google Ads cart data explanation: https://support.google.com/google-ads/answer/9028254?hl=en   
+Google Ads cart data official implementation doc: https://support.google.com/google-ads/answer/9028614?hl=en  
+About gross margin reports: https://support.google.com/merchants/answer/9017895   
 
 ## How does it work
 This template will look in your website's datalayer at the "purchase" stage and automatically return a ready-to-use "items" object with proper formatting, aligned with Google Ads requirements for Cart Data implementation.  
